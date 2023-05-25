@@ -1,3 +1,3 @@
 export default function App() {
-  return <>Foodie</>;
+  return <h1>Foodie</h1>;
 }
