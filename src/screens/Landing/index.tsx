@@ -5,7 +5,7 @@ export default function Landing() {
     <>
       <h1>Foodie</h1>
 
-      <Button href="/login">Login</Button>
+      <Button href="/#/login">Login</Button>
     </>
   );
 }
